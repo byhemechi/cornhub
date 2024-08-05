@@ -2,7 +2,6 @@ const sbubs = [
     ["Porn", "Hub"],
     ["Eef", "Freef"],
     ["Eat", "Pant"],
-    ["gay", "lol"],
     ["Bepis", "Max"],
     ["😂😂😂", "Who did this?"],
     ["Ya like", "Jazz?"]
